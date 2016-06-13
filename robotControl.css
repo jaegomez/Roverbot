@@ -1,0 +1,21 @@
+.Button {
+  color: black;
+  background-color: #00ffff;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  cursor: pointer;
+}
+#StopButton {
+  background-color: red;
+  color: black;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 6px;
+  cursor: pointer;
+}
